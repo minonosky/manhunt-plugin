@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="minecraft3" src="https://github.com/user-attachments/assets/ac6263f0-8eb5-423d-a0bd-8aefcd37240d" />
+
 # Manhunt Plugin
 
 this is a minecraft plugin i built for me and my friends. minecraft manhunt is a game mode where
